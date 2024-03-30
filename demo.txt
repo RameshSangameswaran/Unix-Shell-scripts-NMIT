@@ -1,0 +1,4 @@
+Today being saturday I am just starting to do some 
+Unix shell scripts so that I get the feel of it
+Hope by this way I can able to write some more
+Shell scripts in future
